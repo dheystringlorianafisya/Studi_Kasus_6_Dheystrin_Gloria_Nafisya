@@ -2,6 +2,7 @@
 # NAMA: Dheystrin Gloria Nafisya
 # NIM: 2609116063
 # KELAS: B
+# NIM ganjil: Sistem Pencatatan Nilai Mahasiswa
 
 ## Penjelasan Kode Program
 1. Import csv, untuk memanggil library csv pada pyton jadi program bisa membaca dan menambahkan data ke file .csv
@@ -20,7 +21,9 @@
 Sebelum:
 
 <img width="215" height="114" alt="Screenshot 2026-10-07 201745" src="https://github.com/user-attachments/assets/1b938fa2-e268-4d89-b1d9-f13fdb30bb7b" />
+<br>data hanya 4
 
 Sesudah:
 
 <img width="221" height="134" alt="Screenshot 2026-10-07 201729" src="https://github.com/user-attachments/assets/409aebd6-6a5c-4d38-b18c-7924d11d1067" />
+<br>setelah menjalankan program, data tertambah menjadi 6 
